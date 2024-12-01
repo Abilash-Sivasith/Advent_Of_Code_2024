@@ -1,6 +1,6 @@
 # Advent_Of_Code_2024
 
-Day 1: 
+Day 1: Part 1 Solved, Part 2 UnSolved
 Day 2:
 Day 3:
 Day 4:
