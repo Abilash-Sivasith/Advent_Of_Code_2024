@@ -15,7 +15,7 @@ using namespace std;
 #include <cmath>
 
 ifstream parseTextFile(string textFileName) {
-    ifstream textFile("aoc_day1.txt");
+    ifstream textFile(textFileName);
     return textFile;
 }
 
