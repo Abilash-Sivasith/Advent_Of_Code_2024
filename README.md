@@ -1,12 +1,12 @@
 # Advent_Of_Code_2024
 
-Day 1: Part 1 Solved, Part 2 UnSolved
-Day 2:
-Day 3:
-Day 4:
-Day 5:
-Day 6: 
-Day 7:
+Day 1: Part 1 Solved, Part 2 Solved
+Day 2: Part 1 Solved, Part 2 UnSolved
+Day 3: Part 1 UnSolved, Part 2 UnSolved
+Day 4: Part 1 UnSolved, Part 2 UnSolved 
+Day 5: Part 1 UnSolved, Part 2 UnSolved
+Day 6:  Part 1 UnSolved, Part 2 UnSolved
+Day 7: Part 1 UnSolved, Part 2 UnSolved
 Day 8:
 Day 9:
 Day 10:
