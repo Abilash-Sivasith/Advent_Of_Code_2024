@@ -13,6 +13,7 @@ using namespace std;
 #include <sstream>
 #include <vector>
 #include <cmath>
+#include <algorithm>
 
 ifstream parseTextFile(string textFileName) {
     ifstream textFile(textFileName);
