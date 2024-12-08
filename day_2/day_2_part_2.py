@@ -1,5 +1,3 @@
-
-
 def main():
     """main logic"""
     num_safe_lines = 0
